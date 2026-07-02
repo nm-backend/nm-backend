@@ -7,8 +7,10 @@
 
 ---
 
-## 👤 About
+## 👤 About Me
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django&theme=dark" width="60" alt="Python & Django" />
 
 Backend developer focused on Python and Django. I build clear, maintainable APIs and backend components. Open to remote Python/Django opportunities. Based in Osh, Kyrgyzstan.
 
@@ -17,12 +19,13 @@ Backend developer focused on Python and Django. I build clear, maintainable APIs
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" /> &nbsp; <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" alt="Django" /> &nbsp; <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" alt="FastAPI" /> &nbsp; <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" /> &nbsp; <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker&theme=dark" width="280" alt="Backend Stack" />
 
-<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" /> &nbsp; <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML" /> &nbsp; <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS" /> &nbsp; <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,html,css,git,github&theme=dark" width="280" alt="Frontend & Tools" />
 
 </div>
 
@@ -56,11 +59,13 @@ Developed independently. Backend-focused Django application — repository shows
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nm-backend&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nm-backend&layout=compact&theme=dark&hide_border=true" alt="Top languages" />
 
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nm-backend&theme=dark" alt="Profile summary" />
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=nm-backend&theme=dark" alt="GitHub trophies" />
 
 <br/><br/>
