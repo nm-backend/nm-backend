@@ -1,7 +1,7 @@
 # Nurullo Musajanov
 <div align="center">
 
-![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=36&duration=3000&pause=1000&color=ffffff&center=true&width=900&height=80&lines=Python+Backend+Developer;Django+Developer;REST+API+Enthusiast)
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=36&duration=3000&pause=1000&color=ffffff&center=true&width=900&height=80&lines=Python+Backend+Developer;Django+REST+Framework;Building+scalable+APIs)
 
 </div>
 
@@ -19,7 +19,24 @@ Backend developer working with Python and Django. I focus on building clear, mai
 ## Tech Stack
 <div align="center">
 
-![Tech stack](https://skillicons.dev/icons?i=python,django,postgres,docker,fastapi,js,html,css,git&theme=dark)
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <!-- Row 1: offset right (wave up) -->
+  <image x="150" y="10" width="80" height="80" href="https://skillicons.dev/icons?i=python&theme=dark" />
+  <image x="260" y="10" width="80" height="80" href="https://skillicons.dev/icons?i=django&theme=dark" />
+  <image x="370" y="10" width="80" height="80" href="https://skillicons.dev/icons?i=postgres&theme=dark" />
+  <image x="480" y="10" width="80" height="80" href="https://skillicons.dev/icons?i=docker&theme=dark" />
+  
+  <!-- Row 2: centered (wave middle) -->
+  <image x="40" y="110" width="80" height="80" href="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+  <image x="150" y="110" width="80" height="80" href="https://skillicons.dev/icons?i=git&theme=dark" />
+  <image x="260" y="110" width="80" height="80" href="https://skillicons.dev/icons?i=github&theme=dark" />
+  <image x="370" y="110" width="80" height="80" href="https://skillicons.dev/icons?i=html&theme=dark" />
+  <image x="480" y="110" width="80" height="80" href="https://skillicons.dev/icons?i=css&theme=dark" />
+  <image x="590" y="110" width="80" height="80" href="https://skillicons.dev/icons?i=js&theme=dark" />
+  
+  <!-- Labels (optional, for context) -->
+  <text x="190" y="220" font-size="11" fill="currentColor" text-anchor="middle" opacity="0.7">Python · Django · PostgreSQL · Docker · FastAPI · Git · GitHub · HTML · CSS · JavaScript</text>
+</svg>
 
 </div>
 
