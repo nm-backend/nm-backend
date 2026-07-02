@@ -46,7 +46,7 @@ Developed independently. Backend-focused Django application — repository shows
 
 <br/>
 
-<a href="https://github.com/nm-backend/nerzhaveyka" title="Nerzhaveyka repository"><img src="https://img.shields.io/badge/Repository-Nerzhaveyka-111827?style=for-the-badge&logo=github&logoColor=white" alt="Nerzhaveyka" /></a>
+<a href="https://github.com/nm-backend/nerzhaveyka" title="Nerzhaveyka repository"><img src="https://img.shields.io/badge/📁_View_Repository-Nerzhaveyka-111827?style=for-the-badge&logo=github&logoColor=white" alt="Nerzhaveyka" /></a>
 
 </div>
 
@@ -65,21 +65,22 @@ Developed independently. Backend-focused Django application — repository shows
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/nm-backend" alt="Contribution graph" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm-backend&theme=dark&hide_border=true" alt="GitHub streak stats" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nm-backend&theme=react-dark" alt="Activity graph" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 <div align="center">
 
-<a href="https://github.com/nm-backend" title="GitHub"><img src="https://img.shields.io/badge/GitHub-nm--backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — nm-backend" /></a>
-<a href="https://www.linkedin.com/in/nurullo-musajanov-040b31337/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://t.me/nm_2110" title="Telegram"><img src="https://img.shields.io/badge/Telegram-Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="https://github.com/nm-backend" title="Visit GitHub"><img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<a href="https://www.linkedin.com/in/nurullo-musajanov-040b31337/" title="Connect on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-Let's_Talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<a href="https://t.me/nm_2110" title="Message on Telegram"><img src="https://img.shields.io/badge/Telegram-Send_Message-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+<a href="mailto:nurullomusajanov395@gmail.com" title="Send Email"><img src="https://img.shields.io/badge/Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
