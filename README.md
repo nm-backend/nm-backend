@@ -89,7 +89,7 @@ Keep screenshots focused on app UI or API responses and avoid sensitive data.
 <img src="https://github-profile-trophy.vercel.app/?username=nm-backend&theme=dark" />
 
 <!-- Contributions & activity -->
-<img src="https://ghchart.rshah.org/nm-backend" alt="Contribution graph" />
+<!-- <img src="https://ghchart.rshah.org/nm-backend" alt="Contribution graph" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm-backend&theme=dark&hide_border=true" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nm-backend&theme=react-dark" />
 
